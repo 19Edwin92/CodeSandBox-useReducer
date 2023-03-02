@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+input {
+  background-color: white;
+  color: black;
+}
+
+button {
+  border: none;
+  background-color: white;
+  border-radius: 10%;
+  color: black;
+  margin-left: 10px;
+}
